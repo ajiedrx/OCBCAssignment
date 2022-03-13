@@ -19,7 +19,7 @@ Bank Application built with Kotlin Android with reference of Modern Android Deve
 - ViewModel
 - etc.
 
-This project implements MVVM Architectural-Pattern for separating it's UI Operation and Logic.
+This project implements MVVM Architectural-Pattern for separating it's UI and Logic.
 
 ## Project Tools : 
 - Android Studio Bumblebee | 2021.1.1 Patch 2
