@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">OCBCAssignment</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Not a valid password</string>
+    <string name="invalid_amount">Amount cannot be empty</string>
+    <string name="invalid_description">Description cannot be empty</string>
+    <string name="invalid_confirmation_password">Confirm password not match</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="error_msg">Ouch, unknown error occurred.\nPlease restart the app.</string>
+    <string name="empty_msg">Nothing here.\nSeriously.</string>
+    <string name="register_caption">Register</string>
+    <string name="transfer_caption">Transfer</string>
+    <string name="amount_caption">Amount</string>
+    <string name="description_caption">Description</string>
+    <string name="logout_caption">Logout</string>
+    <string name="balance_caption">You have</string>
+    <string name="account_number_caption">Account number</string>
+    <string name="account_holder_caption">Account holder</string>
+    <string name="transaction_history_caption">Your account history</string>
+    <string name="sgd_currency">SGD</string>
+</resources>
