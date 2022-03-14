@@ -12,11 +12,10 @@ Bank Application built with Kotlin Android with reference of Modern Android Deve
 - Transfer
 
 
-## Libraries/Tools : 
+## Libraries & Tools : 
 - Retrofit & OkHttp 
 - Koin Dependency Injection
 - Kotlin Flow
-- ViewModel
 - etc.
 
 This project implements MVVM Architectural-Pattern for separating it's UI and Logic.
